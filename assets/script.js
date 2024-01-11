@@ -20,3 +20,8 @@ var foodY;
 
 var gameOver = false;
 
+function startGame() {
+    document.getElementById('startButton').style.display = 'none';
+    document.getElementById('board').style.display = 'block';
+    initGame();
+}
