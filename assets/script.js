@@ -125,3 +125,9 @@ function showGameOverAlert() {
     alert("You Lose!");
     location.reload();
 }
+
+// Touch event handlers
+function touchStart(e) {
+    touchStartX = e.changedTouches[0].screenX;
+    touchStartY = e.changedTouches[0].screenY;
+}
