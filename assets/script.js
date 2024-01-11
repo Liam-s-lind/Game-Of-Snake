@@ -25,3 +25,7 @@ function startGame() {
     document.getElementById('board').style.display = 'block';
     initGame();
 }
+
+window.onload = function () {
+    document.getElementById('startButton').addEventListener('click', startGame);
+};
