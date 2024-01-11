@@ -135,3 +135,39 @@ function touchStart(e) {
 function touchMove(e) {
     e.preventDefault(); // Prevent scrolling when touching the canvas
 }
+
+function touchEnd(e) {
+    var touchEndX = e.changedTouches[0].screenX;
+    var touchEndY = e.changedTouches[0].screenY;
+    handleSwipe(touchStartX, touchStartY, touchEndX, touchEndY);
+}
+
+// Handle swipe gestures
+function handleSwipe(startX, startY, endX, endY) {
+    var dx = endX - startX;
+    var dy = endY - startY;
+    var absDx = Math.abs(dx);
+    var absDy = Math.abs(dy);
+
+    if (Math.max(absDx, absDy) < 10) return; // Ignore small swipes
+
+    if (absDx > absDy) {
+        // Horizontal swipe
+        if (dx > 0 && velocityX != -1) {
+            velocityX = 1;
+            velocityY = 0;
+        } else if (dx < 0 && velocityX != 1) {
+            velocityX = -1;
+            velocityY = 0;
+        }
+    } else {
+        // Vertical swipe
+        if (dy > 0 && velocityY != -1) {
+            velocityX = 0;
+            velocityY = 1;
+        } else if (dy < 0 && velocityY != 1) {
+            velocityX = 0;
+            velocityY = -1;
+        }
+    }
+}
