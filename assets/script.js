@@ -29,3 +29,20 @@ function startGame() {
 window.onload = function () {
     document.getElementById('startButton').addEventListener('click', startGame);
 };
+
+function initGame() {
+    board = document.getElementById("board");
+    board.height = rows * blockSize;
+    board.width = cols * blockSize;
+    context = board.getContext("2d");
+
+    placeFood();
+    document.addEventListener("keyup", changeDirection);
+
+    // Adding touch event listeners
+    board.addEventListener('touchstart', touchStart, false);
+    board.addEventListener('touchmove', touchMove, false);
+    board.addEventListener('touchend', touchEnd, false);
+
+    setInterval(update, 1000 / 10);
+}
