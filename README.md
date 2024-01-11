@@ -42,6 +42,7 @@ The player controls a blue snake on a black game board. The objective is to navi
 - HTML
 - CSS
 - JavaScript
+![Alt text for the image](readme-pictures/html,css,js.png "Optional title")
 
 ## How to Play
 - Open the game in a web browser.
