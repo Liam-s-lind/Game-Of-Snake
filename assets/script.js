@@ -131,3 +131,7 @@ function touchStart(e) {
     touchStartX = e.changedTouches[0].screenX;
     touchStartY = e.changedTouches[0].screenY;
 }
+
+function touchMove(e) {
+    e.preventDefault(); // Prevent scrolling when touching the canvas
+}
