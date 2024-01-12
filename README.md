@@ -61,12 +61,20 @@ The player controls a blue snake on a black game board. The objective is to navi
 <img src="readme-pictures/computer.png" alt="Image 2" width="700" height="350"/>
 </p>
 <!-- markdownlint-disable-next-line MD033 -->
+<p align="center">
+<!-- markdownlint-disable-next-line MD033 -->
 <img src="readme-pictures/game-info.png" alt="info" width="700"/>
 </p>
 <!-- markdownlint-disable-next-line MD033 -->
+<p align="center">
+<!-- markdownlint-disable-next-line MD033 -->
 <img src="readme-pictures/alert.png" alt="restart" width="400"/>
 </p>
-
+<!-- markdownlint-disable-next-line MD033 -->
+<p align="center">
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/footer.png" alt="restart" width="700"/>
+</p>
 <!-- markdownlint-disable-next-line MD033 -->
 
 ## Technologies Used
