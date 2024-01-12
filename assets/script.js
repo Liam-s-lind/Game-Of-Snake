@@ -122,7 +122,7 @@ function placeFood() {
 }
 
 function showGameOverAlert() {
-    alert("You Lose!");
+    alert("You Lose! Press 'OK' to restart");
     location.reload();
 }
 
