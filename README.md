@@ -54,6 +54,10 @@ The player controls a blue snake on a black game board. The objective is to navi
 - Randomized placement of food items.
 - Game over conditions with restart capability.
 <!-- markdownlint-disable-next-line MD033 -->
+<p align="center">
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/header.png" alt="Image 1" width="1000"/>
+<!-- markdownlint-disable-next-line MD033 -->
 <p align="left">
 <!-- markdownlint-disable-next-line MD033 -->
 <img src="readme-pictures/phone.png" alt="Image 1" width="200" height="350"/>
