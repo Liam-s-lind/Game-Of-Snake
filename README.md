@@ -1,8 +1,8 @@
-# Snake Of Game
+# Game Of Snake
 
 ## Table of Contents
 
-- [Snake Of Game](#snake-of-game)
+- [Game Of Snake](#game-of-snake)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Gameplay](#gameplay)
@@ -34,6 +34,15 @@ The player controls a blue snake on a black game board. The objective is to navi
 - The game has a clean, minimalistic interface with a snake skin pattern background.
 - The snake is colored blue, and the food is red, providing a clear contrast against the black game board.
 - A "Start New Game" button is prominently displayed at the center of the page.
+<!-- markdownlint-disable-next-line MD033 -->
+<p align="left">
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/start.png" alt="Image 1" width="400" height="200"/>
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/game.png" alt="Image 2" width="200" height="200"/>
+</p>
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/start-btn.png" alt="Image 3" width="200"/>
 
 ## Features
 
@@ -53,7 +62,7 @@ The player controls a blue snake on a black game board. The objective is to navi
 <img src="readme-pictures/alert.png" alt="Image 2" width="400"/>
 </p>
 
-
+<!-- markdownlint-disable-next-line MD033 -->
 
 ## Technologies Used
 <!-- markdownlint-disable-next-line MD033 -->
@@ -66,7 +75,7 @@ The player controls a blue snake on a black game board. The objective is to navi
 - JavaScript
 - CSS
 
-
+<!-- markdownlint-disable-next-line MD012 -->
 ## How to Play
 
 - Open the game in a web browser.
