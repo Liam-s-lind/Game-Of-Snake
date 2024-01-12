@@ -105,7 +105,7 @@ Before you can run the game, you'll need a web browser that supports HTML5 and J
 
 ## Acknowledgments
 
-I acknowledge and take full responsibility that this is my own work, and with a little bit of help from comunitys, friends and Codeinstitute that made it possible to learn how to build this game.
+I acknowledge and take full responsibility that this is my own work.
 
 - A special thank you to the **JavaScript and HTML5 Canvas communities** for the wealth of information and tutorials available, which greatly assisted in understanding the fundamentals of game development in a web environment.
 - Thanks to all my friends who dedicated their time to play the game and provide feedback, leading to continuous improvement and fine-tuning.
