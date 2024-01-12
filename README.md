@@ -15,6 +15,8 @@
   - [Website Goals](#website-goals)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
+  - [Acknowledgments](#acknowledgments)
+  - [Credits](#credits)
 
 ## Introduction
 
@@ -100,3 +102,17 @@ Enjoy this nostalgic journey with a simple yet classic Snake game. Perfect for q
 ### Prerequisites
 
 Before you can run the game, you'll need a web browser that supports HTML5 and JavaScript.
+
+## Acknowledgments
+
+I acknowledge and take full responsibility that this is my own work, and with a little bit of help from comunitys, friends and Codeinstitute that made it possible to learn how to build this game.
+
+- A special thank you to the **JavaScript and HTML5 Canvas communities** for the wealth of information and tutorials available, which greatly assisted in understanding the fundamentals of game development in a web environment.
+- Thanks to all my friends who dedicated their time to play the game and provide feedback, leading to continuous improvement and fine-tuning.
+- Acknowledgment of **[Stack Overflow](https://stackoverflow.com/)** and its community for being a reliable source of solutions and best practices in web development, especially in troubleshooting and debugging.
+
+## Credits
+
+- **Game Concept**: Inspired by the classic snake game, acknowledging its original creators and the various iterations that have contributed to its enduring popularity in the gaming world.
+
+- I have used some code from this totorial "https://www.youtube.com/watch?v=baBq5GAL0_U&t=916s" Author: Kenny Yipp Coding
