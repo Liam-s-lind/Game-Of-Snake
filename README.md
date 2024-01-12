@@ -42,13 +42,30 @@ The player controls a blue snake on a black game board. The objective is to navi
 - Dynamic snake growth upon eating food.
 - Randomized placement of food items.
 - Game over conditions with restart capability.
+<!-- markdownlint-disable-next-line MD033 -->
+<p align="left">
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/phone.png" alt="Image 1" width="200" height="350"/>
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/computer.png" alt="Image 2" width="700" height="350"/>
+</p>
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/alert.png" alt="Image 2" width="400"/>
+</p>
+
+
 
 ## Technologies Used
+<!-- markdownlint-disable-next-line MD033 -->
+<p align="left">
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="readme-pictures/html,css,js.png" alt="Alternative Text" width="200"/>
+</p>
 
 - HTML
-- CSS
 - JavaScript
-![Alt text for the image](readme-pictures/html,css,js.png "Optional title")
+- CSS
+
 
 ## How to Play
 
